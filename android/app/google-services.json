@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "115354132152",
+    "firebase_url": "https://restaurant-client-ed5d4.firebaseio.com",
+    "project_id": "restaurant-client-ed5d4",
+    "storage_bucket": "restaurant-client-ed5d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:115354132152:android:eea04c83b97d461a635e4d",
+        "android_client_info": {
+          "package_name": "com.pesaify.restaurant.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "115354132152-sj65fffgqe3fnplfbg418ii5ocr4okrf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlC3qNiWk3f7qnRAM-yWypIDpJpTvJ5hQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "115354132152-sj65fffgqe3fnplfbg418ii5ocr4okrf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "115354132152-hec0599nfj7b86o5gdcda4i33obsft3h.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.pesaify.restaurant.client"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
